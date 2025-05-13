@@ -397,6 +397,8 @@
     - SecurityWeaponsStatic
     - SecurityBorgModulesStatic
     dynamicPacks:
+    - SalvageSecurityBoards
+    - SalvageSecurityWeapons
     - SecurityEquipment
     - SecurityBoards
     - SecurityExplosives
@@ -514,6 +516,7 @@
     - Scarves
     - Carpets
     - Bedsheets
+    - DoubleBedsheets # DS14
   - type: EmagLatheRecipes
     emagStaticPacks:
     - ClothingCentComm
